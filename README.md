@@ -5,6 +5,12 @@ It prefixes new generated classnames with the scope name.
 
 > react-look is a peer-dependency!
 
+## Installation
+
+```
+npm install react-look-scope --save
+```
+
 ## Usage
 
 ```js
