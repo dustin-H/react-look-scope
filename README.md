@@ -20,4 +20,4 @@ scope === 'myScope' // => true
 
 ## License
 
-(MIT)[LICENSE]
+[MIT](LICENSE)
